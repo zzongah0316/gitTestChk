@@ -23,7 +23,7 @@
             <ul class="navbar-nav bg-light">
                 <li class="nav-item">
                     <c:url var="postListPage" value="/post/list" />
-                    <a class="nav-link" href="${ postListPage }">포스트 목록</a>
+                    <a class="nav-link" href="${ postListPage }">포스트 목록 1</a>
                 </li>
             </ul>
         </nav>
